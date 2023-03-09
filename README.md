@@ -44,7 +44,7 @@ exports.sequelizeMultitable = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.sequelize = {
+exports.sequelizeMultitable = {
 };
 ```
 
