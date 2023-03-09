@@ -1,6 +1,6 @@
 {
   "name": "egg-sequelize-multitable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg Sequelize Multitable plugin",
   "eggPlugin": {
     "name": "sequelizeMultitable",
@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-sequelize-multitable.git"
+    "url": "git+https://github.com/qoyf/egg-sequelize-multitable.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-sequelize-multitable#readme",
+  "homepage": "https://github.com/qoyf/egg-sequelize-multitable#readme",
   "author": "qoyf",
   "license": "MIT"
 }
