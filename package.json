@@ -1,6 +1,6 @@
 {
   "name": "egg-sequelize-multitable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "egg Sequelize Multitable plugin",
   "eggPlugin": {
     "name": "sequelizeMultitable",
